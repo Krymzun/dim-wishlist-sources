@@ -1,4 +1,4 @@
-title:Krymzun God Rolls
+title:Know the God Roll
 
 // The Title (god-pve)
 //notes: tags:god-pve
